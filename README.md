@@ -1,4 +1,11 @@
-[![Domnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domnus&show_icons=true&theme=radical)](https://github.com/Domnus/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domnus&layout=compact&show_icons=true&theme=radical)](https://github.com/Domnus/github-readme-stats)
+# Currently studying CS at [UNIVEM](https://www.univem.edu.br/home)
+
+💻 Linux enthusiast\
+📖 Bookworm
+
+[![Domnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domnus&show_icons=true&theme=radical)](https://github.com/Domnus/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domnus&layout=compact&show_icons=true&theme=radical)](https://github.com/Domnus/github-readme-stats)
 
 <!--
 **Domnus/Domnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
